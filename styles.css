@@ -60,9 +60,7 @@ h1 {
 
 .imgBg{
     display: flex;
-    /* background: url('https://res.cloudinary.com/dkml4bcmn/image/upload/fl_preserve_transparency/v1719072627/FFLimage.jpg?_s=public-apps') no-repeat center center; */
-    /* background: url('https://fflpartnersdev.wpenginepowered.com/wp-content/uploads/2024/06/home-slideshow-02-3-1.png') no-repeat center center; */
-    background: url('https://res.cloudinary.com/dkml4bcmn/image/upload/v1719072627/FFLimage.webp') no-repeat center center;
+    background: url('./imgBg.png') no-repeat center center;
     background-size: contain;
     position: absolute;
     top: 0px;
@@ -71,6 +69,7 @@ h1 {
     z-index: 1;
     left: 0px;
     opacity: 0;
+    
 
 }
 
