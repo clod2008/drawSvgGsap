@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // URL de la imagen de fondo
-    const backgroundImageUrl = './imgBg.png'; // Asegúrate de que la ruta sea correcta
+    const backgroundImageUrl = './imgBg.webp'; // Asegúrate de que la ruta sea correcta
 
     // Iniciar preloader
     preloadImage(backgroundImageUrl)
